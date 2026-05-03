@@ -15,12 +15,12 @@ This project provides a comprehensive data analysis and visualization dashboard 
 ### 2. Products Performance
 *Detailed analysis of product categories, top-performing items, and inventory metrics.*
 
-![Products Performance](market_center/images/Products.png)
+![Products Performance](market_center/images/products.png)
 
 ### 3. Customer Insights
 *Demographics, purchasing behavior, and targeted customer segmentation.*
 
-![Customer Insights](market_center/images/customer.png)
+![Customer Insights](market_center/images/customers.png)
 
 ---
 
